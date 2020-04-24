@@ -94,8 +94,8 @@ No totes les aplicacions admeten aquesta configuració."</string>
   <string name="accessibility_hearingaid_adding_summary">Afegeix audiòfons</string>
   <string name="accessibility_hearingaid_instruction_continue_button">Continua</string>
   <string name="accessibility_hearingaid_not_connected_summary">No hi ha cap audiòfon connectat</string>
-  <string name="accessibility_hearingaid_pair_instructions_first_message">Per emparellar els audiòfons, cerqueu i toqueu el dispositiu a la pantalla següent.</string>
-  <string name="accessibility_hearingaid_pair_instructions_second_message">Assegureu-vos que els audiòfons estan en mode de sincronització.</string>
+  <string name="accessibility_hearingaid_pair_instructions_first_message">Per vincular els audiòfons, cerqueu i toqueu el dispositiu a la pantalla següent.</string>
+  <string name="accessibility_hearingaid_pair_instructions_second_message">Assegureu-vos que els audiòfons estan en mode de vinculació.</string>
   <string name="accessibility_hearingaid_title">Audiòfons</string>
   <string name="accessibility_lock_screen_progress">S\'han fet servir %1$d de %2$d caràcters</string>
   <string name="accessibility_long_press_timeout_preference_title">Retard en tocar i mantenir premut</string>
@@ -993,7 +993,7 @@ Aplicacions:
   <string name="bluetooth_empty_list_user_restricted">No esteu autoritzat a canviar la configuració del Bluetooth.</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">El PIN conté lletres o símbols</string>
-  <string name="bluetooth_enter_passkey_msg">Teclegeu el codi de vinculació i premeu Enter</string>
+  <string name="bluetooth_enter_passkey_msg">Escriviu el codi de sincronització i premeu Retorn o Enter</string>
   <string name="bluetooth_enter_passkey_other_device">També heu de teclejar el codi a l\'altre dispositiu.</string>
   <string name="bluetooth_enter_pin_other_device">També heu de teclejar el PIN a l\'altre dispositiu.</string>
   <string name="bluetooth_footer_mac_message">"Adreça Bluetooth del telèfon: %1$s"</string>
@@ -1002,9 +1002,9 @@ Aplicacions:
   <string name="bluetooth_hearing_aid_profile_summary_connected">Està connectat a l’audiòfon</string>
   <string name="bluetooth_hearing_aid_profile_summary_use_for">Utilitza per a audiòfons</string>
   <string name="bluetooth_hearingaid_left_battery_level">Esquerra - %1$s bateria</string>
-  <string name="bluetooth_hearingaid_left_pairing_message">S\'està emparellant l\'audiòfon esquerre…</string>
+  <string name="bluetooth_hearingaid_left_pairing_message">S\'està vinculant l\'audiòfon esquerre…</string>
   <string name="bluetooth_hearingaid_right_battery_level">Dreta - %1$s bateria</string>
-  <string name="bluetooth_hearingaid_right_pairing_message">S\'està emparellant l\'audiòfon dret…</string>
+  <string name="bluetooth_hearingaid_right_pairing_message">S\'està vinculant l\'audiòfon dret…</string>
   <string name="bluetooth_hid_profile_summary_connected">S\'ha connectat a un dispositiu</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utilizeu-lo com a dispositiu d\'entrada</string>
   <string name="bluetooth_incoming_pairing_msg">Des de:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Voleu vincular-lo amb aquest dispositiu?</string>
@@ -1055,9 +1055,9 @@ Aquí teniu el que podria estar malament:
   <string name="bluetooth_pairing_dialog_title">Voleu vincular aquest dispositiu?</string>
   <string name="bluetooth_pairing_error_message">"No s'ha pogut vincular amb %1$s."</string>
   <string name="bluetooth_pairing_key_msg">Codi de vinculació Bluetooth</string>
-  <string name="bluetooth_pairing_page_title">Emparella el dispositiu nou</string>
+  <string name="bluetooth_pairing_page_title">Vincula el dispositiu nou</string>
   <string name="bluetooth_pairing_pin_error_message">"No s'ha pogut vincular amb %1$s per un PIN o contrasenya incorrectes."</string>
-  <string name="bluetooth_pairing_pref_title">Emparella el dispositiu nou</string>
+  <string name="bluetooth_pairing_pref_title">Vincula el dispositiu nou</string>
   <string name="bluetooth_pairing_rejected_error_message">%1$s ha rebutjat la vinculació.</string>
   <string name="bluetooth_pairing_request">Voleu vincular %1$s?</string>
   <string name="bluetooth_pairing_shares_phonebook">Permet %1$s a accedir als contactes i el registre de trucades</string>
@@ -1198,7 +1198,7 @@ Taxa de mostreig"</string>
   <string name="bootloader_apply_step_1">Voleu activar el mode Fastboot?</string>
   <string name="bootloader_apply_step_2">Quan el dispositiu és en mode Fastboot i connectat a l\'ordinador</string>
   <string name="bootloader_apply_step_3">es pot accedir a les dades (per exemple, contrasenyes, missatges) del dispositiu sense autorització.</string>
-  <string name="bootloader_apply_step_4">Pot ser que que provoqui la divulgació i la pèrdua de les dades o que malmeti per sempre més el maquinari.</string>
+  <string name="bootloader_apply_step_4">Pot ser que provoqui la divulgació i la pèrdua de les dades o que malmeti per sempre més el maquinari.</string>
   <string name="bootloader_apply_step_5">Assegureu-vos que sabeu com utilitzar el mode Fastboot abans d\'activar-lo.</string>
   <string name="bootloader_apply_title">Nota important</string>
   <string name="bootloader_device_bind_already">S\'ha afegit amb èxit. El Compte Mi s\'associarà ara amb aquest dispositiu.</string>
@@ -1255,7 +1255,7 @@ Si ja ha fet qualsevol dels anteriors, afegiu el compte Mi de nou; en cas contra
 Podeu canviar-ho a la configuració."</string>
   <string name="bt_aac_dialog_title">Connexió Bluetooth</string>
   <string name="bt_aac_open_dialog_summary">"AAC podria fallar en la reproducció de so a causa de problemes de compatibilitat.
-Podeu desactivar aquesta funció a Configuració &gt; Bluetooth &gt; Dispositius emparellats."</string>
+Podeu desactivar aquesta funció a Configuració &gt; Bluetooth &gt; Dispositius vinculats."</string>
   <string name="bt_aac_open_dialog_title">S\'està canviant al còdec AAC</string>
   <string name="bt_dialog_remember_choice">Recorda l’elecció</string>
   <string name="bt_dialog_settings">Configuració</string>
@@ -1591,7 +1591,7 @@ Podeu desactivar aquesta funció a Configuració &gt; Bluetooth &gt; Dispositius
   <string name="connect_later">Ara no es pot connectar a aquesta xarxa. Torna-ho a provar més tard.</string>
   <string name="connect_mode">Tipus de connexió</string>
   <string name="connect_to_internet">Connecta\'t a la xarxa</string>
-  <string name="connected_device_add_device_summary">El Bluetooth s\'encendrà per emparellar</string>
+  <string name="connected_device_add_device_summary">El Bluetooth s\'activarà per vincular</string>
   <string name="connected_device_available_call_title">Dispositius de trucada disponibles</string>
   <string name="connected_device_available_media_title">Dispositius multimèdia disponibles</string>
   <string name="connected_device_bluetooth_turned_on_toast">Bluetooth activat</string>
@@ -3015,7 +3015,7 @@ Copieu el fitxer de la còpia de seguretat al vostre dispositiu (MIUI-Backup-All
   <string name="keywords_battery_saver_schedule">rutina, planificació, estalvi de bateria, estalvi d\'energia, bateria, automàtic, percentatge</string>
   <string name="keywords_battery_saver_sticky">estalvi de bateria, adhesiu, persistent, estalvi d\'energia, bateria</string>
   <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
-  <string name="keywords_bluetooth_settings">connectat, dispositiu, auriculars, auricular, altaveu, sense fils, emparella, auriculars, música, multimèdia</string>
+  <string name="keywords_bluetooth_settings">connectat, dispositiu, auriculars, auricular, altaveu, sense fils, vincula, auriculars, música, multimèdia</string>
   <string name="keywords_change_wifi_state">wifi, wi-fi, commutador, control</string>
   <string name="keywords_color_mode">vibrant, RGB, sRGB, color, natural, estàndard</string>
   <string name="keywords_color_temperature">temperatura del color D65 D73 blanc groc blau càlid fred</string>
@@ -5110,7 +5110,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
   <string name="screen_projection_example_game_title">Jocs</string>
   <string name="screen_projection_help">Ajuda</string>
   <string name="screen_projection_sample_summary">Emissió de documents, jocs, fotos i vídeos</string>
-  <string name="screen_projection_sample_title">Demos</string>
+  <string name="screen_projection_sample_title">Demostracions</string>
   <string name="screen_projection_title">Emet</string>
   <string name="screen_reader_category_title">Lectors de pantalla</string>
   <string name="screen_resolution_dialog_title">Canvia la resolució</string>
