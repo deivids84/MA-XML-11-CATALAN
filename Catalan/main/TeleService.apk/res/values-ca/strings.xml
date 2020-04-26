@@ -882,7 +882,7 @@ Voleu utilitzar les dades mòbils de totes maneres?"</string>
   <string name="enhanced_4g_lte_mode_summary_o2">Utilitza els serveis 4G per millorar la veu i altres comunicacions (recomanat)</string>
   <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorat</string>
   <string name="enter_callbarring_password">Introduïu la contrasenya de restricció de trucades (4 dígits)</string>
-  <string name="enter_input">Un missatge USSD ha de tenir entre %d i %d caràcters. Torneu-ho a provar.</string>
+  <string name="enter_input">Un missatge USSD ha de tenir entre %1$d i %2$d caràcters. Torneu-ho a provar.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">PIN de la SIM:</string>
   <string name="entertainment_news_settings">Notícies d\'entreteniment</string>
